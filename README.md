@@ -89,5 +89,5 @@ plt.show()
 ```
 
 
-[](Graphs/ROC_Curve.png)
+[ROC Curve](Graphs/ROC_Curve.png)
 
